@@ -1,9 +1,9 @@
 ﻿using System.Diagnostics.Metrics;
 
 //01. For loop 
-//while loop 
-// do.. while  loop 
-// for each loop 
+//02.while loop 
+//03.do.. while  loop 
+//04.for each loop 
 
 internal class Program
 {
