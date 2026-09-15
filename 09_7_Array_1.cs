@@ -1,4 +1,6 @@
-﻿//06. JUMP - Statement
+﻿//07. Array 
+//01. Array print using foreach loop 
+
 internal class Program
 {
     private static void Main(string[] args)
