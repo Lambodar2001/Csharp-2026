@@ -1,5 +1,5 @@
-﻿//07. Array 
-//02. create and initialize array using user input
+﻿//08. OPPS
+//instance vr static member of classs
 internal class Student
 {
     string name;
